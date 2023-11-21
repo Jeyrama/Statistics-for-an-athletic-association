@@ -71,3 +71,5 @@ function convert(seconds) {
   sec = sec.toString().length === 1 ? "0" + sec : sec;
   return `${hour}|${min}|${sec}`
 }
+
+// or
