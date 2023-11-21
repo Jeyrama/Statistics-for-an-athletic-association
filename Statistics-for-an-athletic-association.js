@@ -22,7 +22,8 @@ To compare the results of the teams you are asked for giving three statistics; r
     the lower half. The median of a finite list of numbers can be found by arranging all the observations 
     from lowest value to highest value and picking the middle one.
 
-Your task is to return a string giving these 3 values. For the example given above, the string result will be:
+Your task is to return a string giving these 3 values. 
+For the example given above, the string result will be:
   "Range: 00|47|18 Average: 01|35|15 Median: 01|32|34"
   Format looks like this: "Range: hh|mm|ss Average: hh|mm|ss Median: hh|mm|ss"`
 
@@ -32,3 +33,6 @@ Remarks:
   if a result in seconds is ab.xy... it will be given truncated as ab.
   if the given string is "" you will return ""
 */
+
+
+// Solution
